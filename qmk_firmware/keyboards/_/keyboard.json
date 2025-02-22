@@ -1,6 +1,6 @@
 {
     "manufacturer": "Auto-Keyboard-Design-Kit by sekigon-gonnoc",
-    "keyboard_name": "",
+    "keyboard_name": "egoist",
     "maintainer": "Auto-KDK",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
